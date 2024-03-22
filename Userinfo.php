@@ -1,6 +1,6 @@
 
 <?php
-class UserInfo{
+class Userinfo{
 
 
 
