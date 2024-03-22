@@ -2,7 +2,7 @@
 
 <?php
 
-include('UserInformation.php');
+include('Userinfo.php');
 
 echo "My Ip address:". UserInfo::get_ip();
 
